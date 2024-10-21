@@ -1,0 +1,12 @@
+streamlit
+pandas
+seaborn
+plotly
+altair<5
+matplotlib
+folium
+streamlit-folium
+streamlit-aggrid
+numpy
+
+
